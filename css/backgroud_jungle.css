@@ -1,3 +1,8 @@
-*{
-    cursor:url("/selfFile/mouse.ico"),auto;
+/**普通指针样式**/  
+body{
+	cursor:url("/selfFile/mouse.ico"),auto;
+}  
+/**链接指针样式**/  
+a:hover{
+	cursor:url("/selfFile/hover.ico"),auto;
 }
