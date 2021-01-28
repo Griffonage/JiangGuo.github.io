@@ -200,7 +200,8 @@ ffmpeg -i xxx.mp4 -f segment -segment_time 60 -segment_format mpegts -segment_li
   document.body.style.overflow = 'auto';
   document.getElementById('loading-box').classList.add("loaded")
 }
-window.addEventListener('load',endLoading)</script><div class="js-pjax"><script>function loadValine () {
+window.addEventListener('load',endLoading)
+setTimeout(function(){preloader.endLoading();}, 3000);</script><div class="js-pjax"><script>function loadValine () {
   function initValine () {
     window.valine = new Valine({
       el: '#vcomment',
