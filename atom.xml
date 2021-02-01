@@ -6,7 +6,7 @@
   <link href="https://ajungle.cn/atom.xml" rel="self"/>
   
   <link href="https://ajungle.cn/"/>
-  <updated>2021-01-28T11:53:48.174Z</updated>
+  <updated>2021-02-01T05:39:58.164Z</updated>
   <id>https://ajungle.cn/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>成都驾校学车真实必过容易指南</title>
+    <link href="https://ajungle.cn/2021/01/31/%E6%97%A5%E8%AE%B0/%E6%97%A5%E8%AE%B0_%E6%88%90%E9%83%BD%E5%AD%A6%E8%BD%A6%E7%9C%9F%E5%AE%9E%E7%BB%8F%E5%8E%86/"/>
+    <id>https://ajungle.cn/2021/01/31/%E6%97%A5%E8%AE%B0/%E6%97%A5%E8%AE%B0_%E6%88%90%E9%83%BD%E5%AD%A6%E8%BD%A6%E7%9C%9F%E5%AE%9E%E7%BB%8F%E5%8E%86/</id>
+    <published>2021-01-31T15:16:58.600Z</published>
+    <updated>2021-02-01T05:39:58.164Z</updated>
+    
+    
+    <summary type="html">成都学车的一次经历</summary>
+    
+    
+    
+    <category term="日志" scheme="https://ajungle.cn/categories/%E6%97%A5%E5%BF%97/"/>
+    
+    
+    <category term="日记" scheme="https://ajungle.cn/tags/%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>博客_为你的Github生成漂亮的徽章和进度条_备份</title>
@@ -440,25 +459,6 @@
     
     
     <category term="JVM调优" scheme="https://ajungle.cn/tags/JVM%E8%B0%83%E4%BC%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Java_JavaGuide阅读笔记</title>
-    <link href="https://ajungle.cn/2020/09/18/Java/Java_JavaGuide%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/"/>
-    <id>https://ajungle.cn/2020/09/18/Java/Java_JavaGuide%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/</id>
-    <published>2020-09-18T15:32:44.269Z</published>
-    <updated>2020-09-18T15:37:43.076Z</updated>
-    
-    
-    <summary type="html">介绍了equals、集合转数组在使用中需要注意的点</summary>
-    
-    
-    
-    <category term="Java" scheme="https://ajungle.cn/categories/Java/"/>
-    
-    
-    <category term="JavaGuide" scheme="https://ajungle.cn/tags/JavaGuide/"/>
     
   </entry>
   
